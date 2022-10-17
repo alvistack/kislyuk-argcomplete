@@ -32,3 +32,5 @@ npm-debug.log
 
 # test
 test/test_package/build
+
+.pybuild/
