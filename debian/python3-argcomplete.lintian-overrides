@@ -1,0 +1,4 @@
+python3-argcomplete: copyright-without-copyright-notice
+python3-argcomplete: initial-upload-closes-no-bugs
+python3-argcomplete: no-manual-page
+python3-argcomplete: zero-byte-file-in-doc-directory
