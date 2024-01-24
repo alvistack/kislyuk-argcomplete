@@ -1,0 +1,4 @@
+python-argcomplete source: file-without-copyright-information
+python-argcomplete source: no-debian-changes
+python-argcomplete source: source-contains-prebuilt-windows-binary
+python-argcomplete source: source-package-encodes-python-version
