@@ -1,0 +1,5 @@
+python-argcomplete (100:3.1.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/kislyuk/argcomplete/releases/tag/v3.1.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 24 Jan 2024 12:32:48 +0800
